@@ -57,5 +57,5 @@ e.Scope, display
 
 
 ## RESULT: 
-Thus, the solar PV energy system is simulated using MATLAB and the I-V and P-V graphs are determined for the given panel rating.
+Thus, the solar powered dc/dc boost converter is simulated using MATLAB and the I-V and P-V graphs are plotted for various values of duty cycles.
     
